@@ -3,7 +3,7 @@ package Constructors;
 /*
  * class Object{
  * Object(){
- *   -------
+ *   ------
  *   ------
  *   ------
  *   }
