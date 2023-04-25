@@ -1,0 +1,26 @@
+frequently used operations 
+
+1. AND operation
+	all specified conditions must be satisfied
+	it is indicated using " && " symbol
+
+2. OR operation
+ 	one of the specified conditions must be satisfied
+	it is indicated using " || " symbol
+
+3. NOT operation
+	It is used for checking the not equals condition
+ 	it is indicated using " ! " symbol
+ 	
+4. equals to operation
+	It is used to check the equality of the two contents
+ 	it is indicated using " == " symbol
+ 
+5. not equals operations
+	It is used to check the non equality of the two contents
+	it is indicated using " != " symbol
+ 
+6. greater than operation
+7. lesser than operation
+8. greater than or equal to operation
+9. lesser than or equal to operation

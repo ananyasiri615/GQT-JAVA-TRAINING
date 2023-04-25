@@ -1,0 +1,24 @@
+Conditional Statements: These are the statements that are used to specify a conditional check before the execution of a particular statement.
+The conditional statements in programming are:
+1. if condition
+2. else if condition
+3. else condition
+
+if(condition)
+{
+	this block of code will execute if the condition inside if is satisfied
+}
+----- in-case condition inside if fails then the else if condition will be checked ----
+ 
+ 
+else if(condition)
+{
+ 		this block of code will execute if the condition inside else if is satisfied
+}
+ 
+----- in-case condition inside else if also fails then the else condition will be executed directly ----
+ 
+else
+{
+ 	this block of code is directly executed if both if and else if fails.
+}
