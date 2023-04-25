@@ -9,6 +9,7 @@ package Constructors;
  *   }
  * }
  */
+
 class Player extends Object
 {
 	Player(){
