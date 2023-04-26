@@ -1,7 +1,6 @@
 package Constructors;
 
-/*
- * class Object{
+/* class Object{
  * Object(){
  *   ------
  *   ------
