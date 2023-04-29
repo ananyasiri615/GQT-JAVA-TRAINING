@@ -1,11 +1,10 @@
 package Abstraction;
 
-//Creating object in abstract cls
+//Creating object in abstract class
 
 abstract class Calculator1{
 	abstract void add();
 	abstract void sub();
-
 }
 
 public class Abstraction3 {
