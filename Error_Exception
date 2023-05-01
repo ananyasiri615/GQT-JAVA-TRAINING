@@ -1,0 +1,17 @@
+Error
+		* It occurs majorly during compilation time
+		* It will not let the program execute
+		* It cannot be handled
+		* It occurs due to the mistakes done by the programmer
+		
+		example:
+				Syntax error
+		
+Exception
+		* It occurs majorly during execution time
+		* It will let the program run except in some cases
+		* It can be handled
+		* It occurs due to the mistakes done by the end user in giving inputs
+		
+		example: 
+				java.lang.ArithmeticException
