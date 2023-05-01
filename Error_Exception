@@ -1,4 +1,4 @@
-Error
+Error:
 		* It occurs majorly during compilation time
 		* It will not let the program execute
 		* It cannot be handled
@@ -7,7 +7,7 @@ Error
 		example:
 				Syntax error
 		
-Exception
+Exception:
 		* It occurs majorly during execution time
 		* It will let the program run except in some cases
 		* It can be handled
@@ -15,3 +15,27 @@ Exception
 		
 		example: 
 				java.lang.ArithmeticException
+				
+Note: Exceptions in java are divided into types
+		* Checked Exceptions
+			These are the exceptions that occur during the compilation time
+			eg: FileNotFoundException, SQLException
+			
+		* Unchecked Exceptions
+			These are the exceptions that occur during the execution time
+			eg: ArithmeticException, RaayIndexOutOfBoundException
+	
+				
+Exception Handling:
+			It is the process of handling exceptions by providing suitable messages and handlers.
+			Exception handling can be done in 3 ways :
+			1. using try and catch block
+			2. using throws declaration (ducking of exception)
+			3. re-throwing of exception		
+			
+	Exception handlers  are divided into 2 types:
+		1. User Defined Exception Handler
+			These are exception handlers that are created by the programmer
+			
+		2. Default Exception Handler
+			These are exception handlers that are created by the developers of Java
